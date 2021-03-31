@@ -1,7 +1,7 @@
 # AI-project
-an AI project from cs50 ai
+An AI project from cs50 ai.
 The task is identifying which traffic sign appears in photographs.
-the detail is on https://cs50.harvard.edu/ai/2020/projects/5/traffic/#:~:text=identify%20which%20traffic%20sign%20appears%20in%20a%20photograph
+The detail is on https://cs50.harvard.edu/ai/2020/projects/5/traffic/#:~:text=identify%20which%20traffic%20sign%20appears%20in%20a%20photograph.
 I'm going to show only code in Python.
 
 
